@@ -24,6 +24,7 @@ return (
                     keyboardType={'numeric'}
                     secureTextEntry={true}
                     // autoFocus={true}
+                    autoFocus={true}
                     placeholder='Nhap mat khau'
                     placeholderTextColor="#929292"
                     
